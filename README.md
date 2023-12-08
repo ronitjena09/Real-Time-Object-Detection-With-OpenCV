@@ -1,6 +1,6 @@
 # Real-Time-Object-Detection-With-Yolov5-and-OpenCV
 
-by **Ronit Jena** and **Kausik Kishire Mishra**
+by **Ronit Jena** and **Kausik Kishore Mishra**
 
 ### Introduction
 
@@ -8,8 +8,6 @@ This project aims to do real-time object detection through a laptop camera or we
 Here, we will go through the steps required for setting up the project and some explanation about the code.
 
 **Hi!**
-
-![alt text]()
 
 ### How to run this code?
 
